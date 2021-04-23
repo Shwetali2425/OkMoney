@@ -1,0 +1,7 @@
+.body{
+    background-image: url("/assets/img/sm.gif");
+    height: 800px;
+    width : 1260px;
+    background-repeat: no-repeat ;
+    background-size: cover
+}

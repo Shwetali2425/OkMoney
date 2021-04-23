@@ -1,0 +1,28 @@
+.header{
+    height : 100px;
+    width : 1260px;
+    background-image: url("/assets/img/cloud.jpg");
+   
+}
+
+.tagline img{
+    height: 60px;
+    width: 60px;
+    float: left;
+    padding-left: 20px;
+   
+}
+
+.tagline{
+    text-align: center;
+    padding-top: 30px;
+    color:rgb(34, 172, 214);
+    padding-right: 30px;
+    font-family:monospace;
+}
+
+.login{ 
+    width: 50px;
+    padding-right: 20px;
+    float: right;
+}
